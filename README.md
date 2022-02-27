@@ -1,10 +1,6 @@
 # Countries
 The app is written entirely using Swiftui. MVVM architecture was used in the project, which was used by creating Network Layer. Data from GeoDB Cities API was used in the application. The 3rd party library was used because the flags were SVG extensions. Flags are displayed in the application using the SDWebImage library.
 
-![alt text] https://ibb.co/ngN0Prm
-![alt text] https://ibb.co/5WzmRLn
-![alt text] https://ibb.co/SwPDC9m
-
 ### Installing
 You can install and run the app using Xcode 13 and Swift 5. Using the app you need to get an apiKey from the RapidApi website.
 
